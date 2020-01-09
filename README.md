@@ -1,7 +1,10 @@
 # extract select option with atribute and text value content to csv tool
 Công cụ trích xuất select option của html với value và text thành csv 
 
-Trong thư mục đang làm việc (in working dir)
+## Cài đặt thư viện môi trường 
+Trong thư mục đang làm việc (in working dir) đã active env 
+
+
 ``
 pip install -r requirements.txt
 ``
