@@ -65,3 +65,9 @@ six==1.13.0
 sqlparse==0.3.0
 
 ```
+
+## Tác giả, author 
+
+@SonNguyen 
+Email: sonnnfit@gmail.com 
+facebook: [https://www.facebook.com/nhsonit](https://www.facebook.com/nhsonit)
